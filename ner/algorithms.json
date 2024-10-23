@@ -5,7 +5,7 @@
 	  "summary": "NER with spacy 3.0",
 	  "description": "",
 	  "tags": ["ner", "spacy"],
-    "runs-on": "venv",
+	  "runs-on": "venv",
 	  "verified": true,
 	  "owner": "Astutic AI",
 	  "for": "NER",
