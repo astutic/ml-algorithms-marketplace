@@ -1,0 +1,17 @@
+[
+  {
+	  "name": "Spacy ner",
+	  "version": 1.0,
+	  "summary": "NER with spacy 3.0",
+	  "description": "",
+	  "tags": ["ner", "spacy"],
+    "runs-on": "venv",
+	  "verified": true,
+	  "owner": "Astutic AI",
+	  "for": "NER",
+	  "opensource": true,
+	  "license": "MIT",
+	  "git": "https://github.com/astutic/acharya-spacy/tree/venv",
+	  "yaml-source": "https://raw.githubusercontent.com/astutic/acharya-spacy/refs/heads/venv/AcharyaSpacy.yaml"
+  }
+]
